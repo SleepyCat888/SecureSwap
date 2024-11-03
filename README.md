@@ -1,5 +1,4 @@
-# This is the Supplementary materials of the paper
-Secure Swap: Responsible Face Swap With Persons of Interest Redaction and Provenance Traceability
+# This is the Supplementary materials of the paper "Secure Swap: Responsible Face Swap With Persons of Interest Redaction and Provenance Traceability"
 
 The following supplementary experimental figures present the robustness test results of the models against images and attacks, as discussed in Section 4 (Experimental Results and Discussions) of Chapter D (Robustness Experiments) in the paper. 
 
