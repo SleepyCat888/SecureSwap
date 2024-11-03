@@ -4,4 +4,4 @@ The following supplementary experimental figures present the robustness test res
 
 The main body shows the robustness results of SecureSwap based on BlendFace. 
 
-Here, we supplement the robustness results for the models SwinSwap, FaceShifter, and MobileFSGAN after applying Secure Swap.
+Here, we supplement the robustness results for the models SimSwap, FaceShifter, and MobileFSGAN after applying Secure Swap.
